@@ -19,6 +19,7 @@ projects:
   - locomotivecms
   - lolita
   - manageable_content
+  - maglevhq/maglev-core
   - nesta
   - Opal
   - puffer_pages
